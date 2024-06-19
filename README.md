@@ -17,7 +17,8 @@ This project aims to build a production-ready E-commerce REST API in Go. I'll be
 - MySQL database
 - Go testing framework
 
-## Getting Started
+## System Architecture
+![Alt Text](./images/arc.png)
 
 ### Prerequisites
 - Go 1.16 or later installed
